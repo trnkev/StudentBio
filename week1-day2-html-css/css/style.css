@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+h1, h2 {
+    color: orangered;
+}
+body {
+    background-color: lightblue;
+}
+div {
+    text-align: left;
+}
+li {
+    list-style: none;
+}

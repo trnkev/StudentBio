@@ -43,7 +43,14 @@ a {
 }
 li {
     list-style: none;
+    font-size: 1.25em;
 }
 h1 {
     text-align: center;
+}
+#main-bio h2 {
+    padding: 10px 0 10px 25px;
+}
+#main-bio p {
+    font-size: 1.25em;
 }
